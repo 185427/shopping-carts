@@ -29,7 +29,7 @@ pipeline
     
     post{
         always{
-            echo 'this pipeline has completed...'
+            echo 'this pipeline has completed.....'
         }
         
     }
